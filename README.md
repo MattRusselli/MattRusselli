@@ -1,4 +1,4 @@
-### Hello and welcome! This is the GitHub profile for Matthew Russelli 👋
+### Hello and Welcome! This is the GitHub profile for Matthew Russelli 👋
 
 - 🌱 I’m currently learning/perfecting how to build a Full-Stack MERN app!
 - 💬 Ask me about any of my projects!
