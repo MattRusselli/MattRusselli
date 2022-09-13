@@ -8,7 +8,7 @@ I’m a Full Stack Developer, who is always seeking to learn something new and w
 
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [RusselliMatt@gmail.com](mailto:RusselliMatt@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Python/Django
 * 🤝  I'm open to collaborating on anything!
 
 ### Skills
